@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0018-4sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/kaushal-prog/leetcode-solution12/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0189-rotate-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/kaushal-prog/leetcode-solution12/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
