@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0189-rotate-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/kaushal-prog/leetcode-solution12/tree/master/3536-maximum-product-of-two-digits) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
