@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0189-rotate-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/kaushal-prog/leetcode-solution12/tree/master/3536-maximum-product-of-two-digits) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0067-add-binary) |
 ## String Matching
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0136-single-number) |
 ## Greedy
 |  |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/kaushal-prog/leetcode-solution12/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
